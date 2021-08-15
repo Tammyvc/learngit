@@ -13,5 +13,5 @@ Add Merge.
 Git is a free software.
 =======
 <<<<<<< HEAD
-bug.
+
 
