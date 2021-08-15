@@ -9,4 +9,9 @@ Creating a new branch is quick and simple.
 >>>>>>> feature1
 Creating a new branch is quick AND simple.
 Add Merge.
+<<<<<<< HEAD
 Git is a free software.
+=======
+<<<<<<< HEAD
+bug.
+
